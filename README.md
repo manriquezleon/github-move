@@ -1,4 +1,4 @@
-# GDGIPN
+# GDG IPN
 Repositorio del GDG IPN
 
 ## Propuesta de platicas y talleres. 
@@ -13,3 +13,5 @@ En el GDG IPN buscamos esta armonia entre las ciencias sociales, biologicas y la
 En el GDG IPN nos gustaria poder contar con tu presencia y apoyo asi que no te preocupes si no eres un master, nosotros comprendemos que somos humanos. No somos un club social por ende no hacemos ningun tipo de filtro para escoger a los miembros, de igual manera no tenemos arboles gerargicos.
 
 ## Patrocinadores
+
+## Desarrollo e investigacion
